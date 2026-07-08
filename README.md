@@ -10,7 +10,7 @@
 * **Supabase:** Plataforma de Backend as a Service utilizada como infraestructura principal del lado del servidor.
 * **PostgreSQL:** Sistema de gestión de bases de datos relacionales para la persistencia de datos.
 * **Supabase Auth:** Componente encargado de la autenticación y control de accesos mediante tokens JWT.
-* **Supabase Edge Functions:** Funciones serverless para la ejecución de la lógica de negocio aislada.
+* **Supabase Edge Functions:** Funciones serverless para la ejecución de la lógica de negocio aislada
 * **Supabase Realtime:** Mecanismo basado en WebSockets para la escucha y transmisión de datos en tiempo real.
 * **Supabase Storage:** Repositorio dedicado al almacenamiento de archivos estáticos y multimedia.
 
